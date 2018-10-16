@@ -1,0 +1,7 @@
+#易码配置
+yima:
+  username: hu_care_you
+  password: hk5201314
+  token: 00650053e843a1080e8b208b93a84890db5066c5
+  url: http://api.fxhyd.cn/UserInterface.aspx
+  fmeiemiCode: 6919
